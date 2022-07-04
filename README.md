@@ -1,2 +1,2 @@
 # HusriedToken
-Husried Token metadata and values
+Husried Token metadata and logo all on Github
